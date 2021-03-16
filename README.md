@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Anuska Sahu
-- 👀 I’m interested in ux/ui designing,user testing
+- 👋 Hi, I’m Anuska Sahu.
 - 🌱 I’m currently learning jQuery 
 - 📫 Mail address anuskasahu987@gmail.com
 
